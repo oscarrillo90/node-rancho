@@ -2,6 +2,7 @@
   "name": "node-rancho",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://oscarrillo90.github.io/node-rancho",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
